@@ -1,0 +1,93 @@
+body {
+    font-family: sans-serif;
+}
+header img{position: absolute;
+width: 87px;
+height: 47.8px;
+left: 24px;
+top: 26.1px;
+
+font-family: 'Peralta';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+
+color: #000000;;
+}
+a{text-decoration: none;
+  border-radius: 10px;
+  color: black;
+   background: #FFB600;
+   position: absolute
+;  margin: 40px 689px 21px 135px;
+  padding: 0px 5px 0px 5px;
+  font-size: 36px; }
+header{height: 101px;
+width: 959px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+background: #0776A0;
+}
+h1{text-align: center;}
+.trtr{height: 250px;
+width: 240px;
+left: 40px;
+top: 235px;
+border-radius: 0px;
+}
+.rtrt{height: 250px;
+width: 200px;
+left: 310px;
+top: 235px;
+border-radius: 0px;
+}
+.tttt{height: 250px;
+width: 380px;
+left: 540px;
+top: 235px;
+border-radius: 0px;
+}
+h2{font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+    color: #FF2C00;}
+img h2{height: 5.7px;
+width: 6px;
+left: 15.9px;
+top: 8px;
+border-radius: 0px;
+}
+footer{
+background: #024C68;height: 161px;
+width: 959px;
+left: 0px;
+top: 1140px;
+border-radius: 0px;
+padding-top: 15px;
+}
+footer p{font-size: 24px;color: white;margin-top: 30px;margin-left: 30px;}
+.ert{border-top: 5px solid black;
+     border-bottom: 5px solid black;
+     width: 596px;
+     padding: 32px 182px 32px 182px;
+     font-size: 48px;
+     text-align: center;}
+.type{
+top: 135px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 59px;
+
+color: #000000;
+}
+p img {margin: 15px;}
+ul{list-style:url(https://learn.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg) ;
+margin-left: 42px;
+font-size: 24px;}
